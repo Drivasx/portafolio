@@ -11,25 +11,25 @@ export const navbar_items = [
     {
         id: 2,
         name: 'projects',
-        icon: '',
+        icon: 'src/assets/lanzamiento-del-proyecto.png',
         link: '/projects'
     },
     {
         id: 3,
         name: 'services',
-        icon: '',
+        icon: 'src/assets/cliente.png',
         link: '/services'
     },
     {
         id: 4,
         name: 'testimonials',
-        icon: '',
+        icon: 'src/assets/comentarios-de-los-clientes.png',
         link: '/testimonials'
     },
     {
         id: 5,
         name: 'contact me',
-        icon: '',
+        icon: 'src/assets/agenda.png',
         link: '/contact-me'
     },
 ]
